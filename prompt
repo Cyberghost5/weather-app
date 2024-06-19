@@ -1,0 +1,6 @@
+Create a weather app that uses various videos of different weather conditions as background videos with the various weather parameters being displayed.
+
+Use the current user co-ordinate using JavaScript to collect that information, and also create a space for a user to enter a specific location to display the weather for that location.
+Use stock videos as the background videos and let them be on autoplay and looped.
+
+Design the web app using PHP and use a suitable weather API to get the weather data.
