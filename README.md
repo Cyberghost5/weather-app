@@ -23,7 +23,7 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository**:
     ```bash
-    git clone [https://github.com/Cyberghost4/weather-app](https://github.com/Cyberghost5/weather-app/).git
+    git clone https://github.com/Cyberghost5/weather-app.git
     cd weather-app
     ```
 
@@ -74,7 +74,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 If you have any questions or feedback, feel free to reach out to me:
 
 - **GitHub**: [Cyberghost5](https://github.com/Cyberghost5)
-- **Email**: your.email@example.com
+- **Email**: info@harkone.com.ng
 
 ## Acknowledgments 🙏
 
