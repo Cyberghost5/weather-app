@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
-    const apiKey = '10a9026d31a10de1856be1bac5092395'; // Replace with your actual API key
+    const apiKey = 'YOUR_API_KEY'; // Replace with your actual API key
     const videoElement = document.getElementById('background-video');
     const locationElement = document.getElementById('location');
     const countryElement = document.getElementById('country');
